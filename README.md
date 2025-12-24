@@ -22,3 +22,10 @@
 ### This analysis helps investors set better expectations about returns and understand potential fluctuations in the market.
 
 ### Overall, the project shows a beginner-level yet practical application of Python in finance and data analysis.
+
+## 🛠 Skills Demonstrated 
+### Python (NumPy, Pandas)
+### Data Visualization (Matplotlib)
+### Monte Carlo Simulation
+### Financial Data Analysis
+### Analytical Thinking
