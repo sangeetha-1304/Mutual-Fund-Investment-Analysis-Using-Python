@@ -11,3 +11,14 @@
 ### A small number of simulations show higher or lower extreme values, reflecting real-world market volatility and risk.
 
 ### Visualizing the results makes it easier to compare risk vs return rather than relying on a single projected value.
+
+## 📌 Conclusions
+### Monte Carlo simulation is an effective method for forecasting investment performance and understanding possible future risks.
+
+### The project demonstrates how Python can be used for basic financial analysis and decision support.
+
+### Rather than predicting a single outcome, the simulation provides a range of possible portfolio values, which is more realistic for financial planning.
+
+### This analysis helps investors set better expectations about returns and understand potential fluctuations in the market.
+
+### Overall, the project shows a beginner-level yet practical application of Python in finance and data analysis.
